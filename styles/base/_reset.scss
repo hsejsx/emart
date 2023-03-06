@@ -1,18 +1,18 @@
 * {
   margin: 0;
-  //   폰트 설정하기
+  font-family: $font-main;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
 }
 
 html {
-  //   폰트 설정하기
+  font-family: $font-main;
   font-size: 62.5%;
 }
 
 body {
-  //   폰트 설정하기
+  font-family: $font-main;
 }
 
 h1 {
